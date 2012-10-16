@@ -27,15 +27,13 @@ Please implement a single-page web application that allows a user to take a test
 
 ## Requirements:
 - Single-page application
-- JavaScript
+- CoffeeScript w/ Backbone
 - HTML
 - CSS
 
 ## Bonus:
-- Backbone.js
 - Require.js
 - Mustache.js
-- CoffeeScript
 - Source in a GitHub repository
 
 ## Questions:
