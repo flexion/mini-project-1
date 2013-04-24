@@ -34,6 +34,8 @@ Please implement a single-page web application that allows a user to take a test
 ## Bonus:
 - Require.js
 - Mustache.js
+- Grunt build
+- Stylus
 - Source in a GitHub repository
 
 ## Questions:
