@@ -27,7 +27,7 @@ Please implement a single-page web application that allows a user to take a test
 
 ## Requirements:
 - Single-page application
-- CoffeeScript w/ Backbone
+- CoffeeScript with Backbone or Angular
 - HTML
 - CSS
 
